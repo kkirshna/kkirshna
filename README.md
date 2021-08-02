@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kirshna
-- 👀 I’m interested in Getting Good Peaople for my Team
+- 👀 I’m interested in Getting connected to Great Peaople for my Startup
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on Technology Development 
-- 📫 How to reach me  Prefer Message or Email
+- 📫 How to reach me -  Prefer Message or Email
 
 <!---
 kkirshna/kkirshna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
