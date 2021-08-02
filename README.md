@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirshna
+- 👋 Hi, I’m @krishna
 - 👀 I’m interested in Getting connected to Great Peaople for my Startup
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on Technology Development 
